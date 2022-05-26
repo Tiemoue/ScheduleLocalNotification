@@ -1,7 +1,9 @@
 # Schedule Local Notification Android
 How to Schedule Local Notification With AlarmManager In Android Studio Java Tutorial  
 
-This example demonstrate about How to schedule local notification in android.
+This following video demonstrate about How to schedule local notification in android.
+
+[![Watch Full Tutorial](https://img.youtube.com/vi/Ijv0vcxNk78/0.jpg)](https://www.youtube.com/watch?v=Ijv0vcxNk78)
 
 # Step 1
 Create a new project in Android Studio, go to File ⇒ New Project and fill all required details to create a new project.
